@@ -1,0 +1,32 @@
+html
+{
+  margin: 25px;
+  padding: 10px;
+  border: 25px solid blue;
+  box-sizing: border-box;
+  font-family: 'Merriweather', serif;
+}
+#Size
+{
+  font-size: 25;
+}
+
+#Weight
+{
+  font-weight: lighter;
+}
+
+#Form
+{
+  font-style: italic;
+}
+
+#Structure
+{
+  font-family: 'Staatliches', cursive;
+}
+
+#Color
+{
+  color: #FF0000;
+}
