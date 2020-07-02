@@ -1,0 +1,36 @@
+*
+{
+  box-sizing: border-box;
+}
+body
+{
+  margin: 0;
+  background-color: #dddddd;
+}
+.board
+{
+  width: 40vw;
+  margin: 50px auto;
+}
+main
+{
+
+}
+div
+{
+
+}
+.red
+{
+  width: 5vw;
+  height: 5vw;
+  background-color: red;
+  float: left;
+}
+.black
+{
+  width: 5vw;
+  height: 5vw;
+  background-color: black;
+  float: left;
+}
