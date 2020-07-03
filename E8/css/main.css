@@ -10,28 +10,148 @@ main
 }
 .shape1
 {
-  width: 100px;
-  height: 100px;
-  background-color: tomato;
+  border: 50px solid blue;
+  border-top-color: orange;
+  border-bottom-color: orange;
   float: left;
-  margin: -5px;
   opacity: .75;
 }
 .shape2
 {
-  width: 100px;
-  height: 100px;
-  background-color: dodgerblue;
+  border: 50px solid yellow;
+  border-top-color: purple;
+  border-bottom-color: purple;
   float: left;
-  margin: -5px;
   opacity: .75;
 }
 .shape3
 {
+  border: 50px solid green;
+  border-top-color: red;
+  border-bottom-color: red;
+  float: left;
+  opacity: .75;
+}
+.shape4
+{
   width: 100px;
   height: 100px;
-  background-color: gold;
+  background-color: red;
+  border: 25px solid orange;
   float: left;
-  margin: -5px;
-  opacity: .75;
+}
+.shape5
+{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border: 25px solid yellow;
+  float: left;
+}
+.shape6
+{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 25px solid purple;
+  float: left;
+}
+.shape7
+{
+  width: 75px;
+  height: 75px;
+  background-color: blue;
+  border: 25px solid purple;
+  border-top-color: dodgerblue;
+  border-right-color: indigo;
+  border-left-color: magenta;
+  border-radius: 10px;
+  float: left;
+}
+.shape8
+{
+  width: 75px;
+  height: 75px;
+  background-color: red;
+  border: 25px solid orange;
+  border-top-color: gold;
+  border-right-color: yellow;
+  border-left-color: maroon;
+  border-radius: 10px;
+  float: left;
+}
+.shape9
+{
+  width: 75px;
+  height: 75px;
+  background-color: green;
+  border: 25px solid yellow;
+  border-top-color: blue;
+  border-right-color: indigo;
+  border-left-color: lime;
+  border-radius: 10px;
+  float: left;
+}
+.shape10
+{
+  background-color: green;
+  border: 100px solid;
+  border-top-color: pink;
+  border-bottom-color: pink;
+  border-right-color: blue;
+  border-left-color: green;
+  float: left;
+}
+.shape11
+{
+  background-color: green;
+  border: 100px solid;
+  border-top-color: black;
+  border-bottom-color: black;
+  border-right-color: red;
+  border-left-color: blue;
+  float: left;
+}
+.shape12
+{
+  background-color: green;
+  border: 100px solid;
+  border-top-color: yellow;
+  border-bottom-color: yellow;
+  border-right-color: green;
+  border-left-color: red;
+  float: left;
+}
+.shape13
+{
+  background-color: green;
+  border: 100px solid;
+  border-top-color: brown;
+  border-bottom-color: brown;
+  border-right-color: olive;
+  border-left-color: orange;
+  border-radius: 100px;
+  float: left;
+}
+.shape14
+{
+  background-color: green;
+  border: 100px solid;
+  border-top-color: gold;
+  border-bottom-color: gold;
+  border-right-color: dodgerblue;
+  border-left-color: olive;
+  border-radius: 100px;
+  float: left;
+}
+.shape15
+{
+  background-color: green;
+  border: 100px solid;
+  border-top-color: silver;
+  border-bottom-color: silver;
+  border-right-color: orange;
+  border-left-color: dodgerblue;
+  border-radius: 100px;
+  float: left;
 }
