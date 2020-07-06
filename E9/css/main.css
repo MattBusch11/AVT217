@@ -16,10 +16,6 @@ main
 {
 
 }
-div
-{
-
-}
 .red
 {
   width: 5vw;
@@ -32,5 +28,31 @@ div
   width: 5vw;
   height: 5vw;
   background-color: black;
+  float: left;
+}
+.columnGrid
+{
+  width: 60vw;
+  margin-left: 20vw;
+  margin-top: 5vh;
+}
+.header
+{
+  width: 60vw;
+  height: 13vh;
+  background-color: red;
+}
+.title
+{
+  width: 60vw;
+  height: 3vh;
+  margin: 10px auto;
+  background-color: red;
+}
+.column
+{
+  width: 18vw;
+  height: 50vw;
+  background-color: red;
   float: left;
 }
