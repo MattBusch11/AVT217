@@ -1,0 +1,50 @@
+main
+{
+  width: 475px;
+  height: 350px;
+  margin: 20px auto;
+}
+.leftContainer
+{
+  width: 375px;
+  height: 100%;
+  float: left;
+}
+.rightContainer
+{
+  width: 100px;
+  height: 100%;
+  float: left;
+}
+.box
+{
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  margin-right: 25px;
+  float: left;
+}
+.rectangle
+{
+  width: 100px;
+  height: 225px;
+  margin-bottom: 25px;
+  background-color: purple;
+  float: left;
+}
+.rectangle2
+{
+  width: 225px;
+  height: 100px;
+  background-color: purple;
+  margin-right: 25px;
+  float: left;
+}
+.top
+{
+  margin-bottom: 25px;
+}
+.bottom
+{
+  margin-top: 25px;
+}
