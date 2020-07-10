@@ -5,3 +5,24 @@ body
   box-sizing: border-box;
   background-color: yellow;
 }
+@media screen and (max-width: 1500px)
+{
+  body
+  {
+    background-color: crimson;
+  }
+}
+@media screen and (max-width: 1000px)
+{
+  body
+  {
+    background-color: cyan;
+  }
+}
+@media screen and (max-width: 750px)
+{
+  body
+  {
+    background-color: springgreen;
+  }
+}
