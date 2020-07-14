@@ -1,0 +1,9 @@
+Open up Adobe XD (or Illustrator)
+Create an artboard of size W:3852 H:3000
+Select the Triangle tool and create a triangle with dimensions W:648 H:543, fill it with RGB color 255, 0, 0, and place it at coordinates X:1590 and Y:512
+Select the circle tool and create a circle with dimensions W:624 H:614 at coordinates X:1602 Y:886 and leave it filled in with RGB color 255, 255, 255.
+Create another circle with dimensions W:85 and H:89 and place it at coordinates X:1721 and Y:1129, and fill it with RGB color 0, 0, 0
+Hold Shift and Alt then drag the smaller circle to the right to coordinates X:1987 and Y:1129 creating a duplicate circle.
+Select the Triangle tool and create a triangle with dimensions W:302 H:105 at coordinates X:1763 Y:1292 and fill it with RGB color 0, 0, 0.
+Export the artboard and email it to mbusch2@masonlive.gmu.edu
+
