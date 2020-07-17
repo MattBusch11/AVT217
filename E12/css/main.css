@@ -57,10 +57,10 @@ body
 .handle
 {
   width: 70px;
-  height: 30px;
+  height: 20px;
   background-color: #242424;
   position: relative;
-  left: 150px;
+  left: 164px;
   bottom: 42px;
 }
 .right
