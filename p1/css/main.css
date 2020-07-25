@@ -234,6 +234,44 @@ a
   text-align: center;
   font-size: 26px;
 }
+.menuPageImg
+{
+    width: 100%;
+    height: 700px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-size: 100%;
+    background-position: center;
+}
+.first
+{
+  background-image: url("../images/Seafood_Dish.jpg");
+  margin-top: 0;
+}
+.menu
+{
+  text-align: center;
+}
+.fresh
+{
+  margin-bottom: 0px;
+}
+.subFresh
+{
+  margin-top: 10px;
+}
+.second
+{
+  background-image: url("../images/Salmon_Dish.jpg");
+}
+.third
+{
+  background-image: url("../images/Group_At_Table.jpg");
+}
+.fourth
+{
+  background-image: url("../images/Food_On_Table.jpg");
+}
 @media screen and (max-width: 320px)
 {
   p
