@@ -5,25 +5,24 @@
 body
 {
   background-color: #FFFDF2;
+  margin: 0;
+}
+main
+{
+  margin: 10px;
 }
 header
 {
   background-color: #2F36A2;
   color: white;
   width: 100%;
-  display: flow-root;
+  height: 60px;
 }
 nav
 {
-  width: 41%;
-  display: flow-root;
-  margin-left: 35%;
-  margin-right: 35%;
-}
-a
-{
-  color: White;
-  text-decoration: none;
+  width: 738px;
+  height: 100%;
+  margin: auto;
 }
 img
 {
@@ -34,28 +33,48 @@ img
 h1
 {
   text-align: center;
-  width: 300px;
-  height: 50px;
+  width: 594px;
+  height: 83px;
   margin: 30px auto;
+  font-size: 5em;
+}
+h3
+{
+  font-size: 4em;
+}
+h4
+{
+  font-size: 28px;
 }
 p
 {
-
-  font-size: 22px;
+  font-size: 24px;
+}
+a
+{
+  color: white;
+  text-decoration: none;
+}
+.notHome
+{
+  width: 100%;
 }
 .navigation
 {
-  color: white;
   font-weight: bold;
   float: left;
   width: auto;
   text-align: center;
-  padding-right: 5%;
-  padding-left: 5%;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-top: 15px;
 }
-.menuButton
+.mainPageLink
 {
-
+  padding-left: 20px;
+  padding-right: 170px;
+  font-size: 30px;
+  margin-top: 15px;
 }
 .divider
 {
@@ -65,9 +84,155 @@ p
 {
   text-align: center;
   line-height: 40px;
-  width: 50vw;
-  height: 5vw;
+  width: 700px;
+  height: 155px;
   margin: 30px auto;
+}
+.menuImg
+{
+  background-image: url("../images/Food_On_Table_2.jpg");
+  background-size: 700px;
+  width: 700px;
+  height: 467px;
+  margin-right: 95px;
+  margin-bottom: 10px;
+  float: left;
+}
+.homeLink
+{
+  background-color: rgba(0, 0, 0, 0.67);
+  position: relative;
+  left: 258px;
+  top: 215px;
+  width: 160px;
+  height:69px;
+  margin: 0;
+}
+.linkBox
+{
+
+}
+.eventsImg
+{
+  background-image: url("../images/Window_Table.jpg");
+  background-size: 700px;
+  background-position: center;
+  width: 700px;
+  height: 467px;
+  float: left;
+}
+.eventsPageImg1
+{
+  width: 100%;
+  height: 500px;
+  background-image: url("../images/Group_Event.jpg");
+  background-size: 100%;
+  background-position: center;
+}
+.eventsParagraph
+{
+  text-align: center;
+  line-height: 40px;
+  width: 550px;
+  height: 115px;
+  margin: 30px auto;
+}
+.eventsPageImg2
+{
+  width: 500px;
+  height: 333px;
+  margin-left: 208px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+  background-image: url("../images/Group_Event_2.jpg");
+  background-size: 100%;
+  background-position: center;
+  float: left;
+}
+.eventsParagraph2
+{
+  text-align: left;
+  line-height: 40px;
+  width: 500px;
+  height: 100px;
+  margin-top: 124px;
+  margin-bottom: 139px;
+  margin-right: 100px;
+  float: left;
+}
+.reserveEvent
+{
+  margin-bottom: 45px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  /* float: left; */
+}
+.eventsPageImg3
+{
+  width: 100%;
+  height: 700px;
+  background-image: url("../images/Outdoor_Area.jpg");
+  background-size: 100%;
+  background-position: bottom;
+}
+.aboutPageImg1
+{
+  width: 100%;
+  height: 600px;
+  background-image: url("../images/Chef_In_Kitchen.jpg");
+  background-position: bottom -260px right 50%;
+  background-size: 100%;
+  margin-bottom: 150px;
+}
+.aboutPageImg2
+{
+  width: 500px;
+  height: 270px;
+  background-image: url("../images/Chef_Buns.jpg");
+  background-position: center;
+  background-size: 100%;
+  margin-right: 50px;
+  margin-bottom: 45px;
+  float: left;
+}
+.aboutParagraph
+{
+  text-align: left;
+  float: left;
+  width: 949px;
+  height: 115px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 30px;
+}
+.aboutParagraph2
+{
+  text-align: left;
+  float: left;
+  width: 949px;
+  height: 115px;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  line-height: 30px;
+}
+.aboutPageImg3
+{
+  width: 500px;
+  height: 270px;
+  background-image: url("../images/Wines.jpg");
+  background-position: center;
+  background-size: 100%;
+  margin-top: 110px;
+  margin-bottom: 90px;
+  float: left;
+}
+.aboutParagraph3
+{
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-size: 26px;
 }
 @media screen and (max-width: 320px)
 {
@@ -79,7 +244,7 @@ p
   {
     height: 45px;
   }
-  .Navigation
+  .navigation
   {
     font-size:
   }
