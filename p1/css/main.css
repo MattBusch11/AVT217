@@ -90,9 +90,9 @@ a
 {
   background-image: url("../images/Food_On_Table_2.jpg");
   background-size: 700px;
-  width: 700px;
+  width: 600px;
   height: 467px;
-  margin-right: 95px;
+  margin-right: 203px;
   margin-bottom: 10px;
   float: left;
 }
@@ -115,7 +115,7 @@ a
   background-image: url("../images/Window_Table.jpg");
   background-size: 700px;
   background-position: center;
-  width: 700px;
+  width: 600px;
   height: 467px;
   float: left;
 }
